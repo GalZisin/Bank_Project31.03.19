@@ -1,0 +1,7 @@
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_200319_Bank Project\200319\BankProject\bin\Debug\BankProject.exe.config
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_200319_Bank Project\200319\BankProject\bin\Debug\BankProject.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_200319_Bank Project\200319\BankProject\bin\Debug\BankProject.pdb
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_200319_Bank Project\200319\BankProject\obj\Debug\BankProject.csprojAssemblyReference.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_200319_Bank Project\200319\BankProject\obj\Debug\BankProject.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_200319_Bank Project\200319\BankProject\obj\Debug\BankProject.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_200319_Bank Project\200319\BankProject\obj\Debug\BankProject.pdb
